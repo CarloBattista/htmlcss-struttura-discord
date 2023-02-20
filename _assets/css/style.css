@@ -73,7 +73,7 @@ main {
     background-color: #F6F6F6;
 }
 
-.box_ct{
+.just_center{
     width: 60%;
     min-height: 500px;
     margin: 0 auto;
@@ -101,4 +101,21 @@ main {
 
 .reverse_rt{
     width: 70%;
+}
+
+/* Container info center */
+
+.flex_di_col{
+    flex-direction: column;
+}
+
+.textBox{
+    background-color: aquamarine;
+    width: 100%;
+}
+
+.imageWrap{
+    background-color: chocolate;
+    width: 100%;
+    height: 600px;
 }
