@@ -134,3 +134,14 @@ main {
     align-items: center;
     justify-content: space-between;
 }
+
+.box{
+    background-color: red;
+    width: 16%;
+    height: 400px;
+}
+
+.box.box_large{
+    background-color: yellow;
+    width: 30%;
+}
