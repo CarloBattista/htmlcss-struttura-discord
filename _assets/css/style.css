@@ -123,5 +123,14 @@ main {
 /* Footer */
 
 .footer{
+    background-color: blueviolet;
     width: 100%;
+    padding: 70px 200px;
+}
+
+.foo_view_container_top {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
